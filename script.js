@@ -4,8 +4,7 @@ function myform(){
 	var cont=document.getElementById("contact").value;
 	var id=document.getElementById("id").value;
 
-	var result =
-		            "First Name: " + fn + "\n" +
+	var result =  "First Name: " + fn + "\n" +
                    "Last Name: " + ln + "\n" +
                    "Phone Number: " + cont + "\n" +
                    "Email ID: " + id;
